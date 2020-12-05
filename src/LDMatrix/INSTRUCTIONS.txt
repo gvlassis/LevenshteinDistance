@@ -1,0 +1,10 @@
+First of all .java files are plain text files. This means that you can view and edit them using any text editor of your liking.
+I did the best I could to document my code, but this program is mainly made to be run, not be modified. To run it you can proceed follows:
+(1) This step is necessary only if you do not have a Java virtual machine installed(JVM). You can skip it if you have. If not, you can install
+the Oracle one (https://www.oracle.com/java/technologies/javase-jre8-downloads.html). 
+ATTENTION: During the installation check the option "Install to PATH"
+2) Open a shell and navigate to the directory of this file. In windows you can, while holding shift, right click inside the directory of this file
+and then choose "Open PowerShell window here"/"Open cmd"
+3) In the shell, type "javac Main.java" to compile the program
+4) In the shell ,type "java Main" to run the program
+5) You then insert the starting string (source) and the string you want to convert it to (target)
